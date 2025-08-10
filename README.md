@@ -1,2 +1,2 @@
-# AI-iti
+# AI-ITI
 AI ITI Course
